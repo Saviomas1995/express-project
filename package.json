@@ -4,7 +4,7 @@
   "main": "app.ts",
   "license": "MIT",
   "engines": {
-    "node": "16.15.0"
+    "node": "18.x"
   },
   "scripts": {
     "dev": "node src/index.ts"
